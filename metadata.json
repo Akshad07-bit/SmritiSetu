@@ -1,0 +1,6 @@
+{
+  "name": "SmritiSetu - AI Dementia & Memory Care for Northeast India",
+  "description": "AI-powered cognitive stimulation gaming, reminiscence therapy, and dementia memory assistance platform rooted in Northeast Indian heritage, supporting elders and caregivers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
